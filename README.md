@@ -6,13 +6,13 @@
 
 Welcome to the __Open LiDAR Data__ repository, a centralized repository dedicated to consolidating LiDAR datasets from
 across the world. Our mission is to address the fragmentation of LiDAR data, which is currently scattered across a
-myriad of institutions, making it challenging for researchers, developers, and policy makers to access and utilize this
+myriad of institutions, making it challenging for researchers, developers, and policymakers to access and utilize this
 invaluable resource efficiently.
 
 ## About
 
-LiDAR (Light Detection and Ranging) technology has become a critical tool in a variety of fields, including archaeology,
-geography, forestry, and urban planning, among others. Recognizing the importance of LiDAR data, a growing number of
+LiDAR (Light Detection and Ranging) technology has become a critical tool in various fields, including archaeology,
+geography, forestry, and urban planning. Recognizing the importance of LiDAR data, many
 countries have initiated systematic national LiDAR scanning routines. However, the lack of a unified platform for
 accessing these datasets impedes the potential for innovation and research.
 
@@ -45,9 +45,9 @@ The Open LiDAR Data aims to fill this gap by:
 | United Kingdom DEFRA 2005-2022                 | `/data/DEFRA/LIDAR_*`                                    | [License](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                             | [DEFRA - Data Services Platform](https://environment.data.gov.uk/dataset/094d4ec8-4c21-4aa6-817f-b7e45843c5e0)                                             |
 | Luxembourg le gouvernement luxembourgeois 2019 | `/data/LU/Gouvernement_LUX/Lidar_2019`                   | [License](https://creativecommons.org/publicdomain/zero/1.0/)                                                                     | [The luxembourgish open data platform - data.public.lu](https://data.public.lu/en/datasets/lidar-2019-releve-3d-du-territoire-luxembourgeois/)             
 
-For more easier overview you can explore datasets via [FlaiHub](hup.flai.ai) __(COMING SOON)__
+For an easier overview, you can explore datasets via [FlaiHub](https://hup.flai.ai) 
 
-In each path there are follwing folders with data:
+In each path, there are the following folders with data:
 
 * `.../copc`
 * `.../laz`
@@ -71,17 +71,17 @@ Example:
 
     aws s3 cp s3://open-lidar-data/data/BE/EODaS/LiDAR_DHMV_II-2013-2015/copc/LiDAR_DHMV_2_P1_ATL12104_ES_52500_217000.copc.laz
 
-_To find the name of file take a look at main path in __Overview__ and tiling schema, or go to [FlaiHub](hup.flai.ai) __(COMING SOON)___
+_To find the name of the file take a look at the main path in __Overview__ and tiling schema, or go to [FlaiHub](hup.flai.ai) __(COMING SOON)___
 
 #### Download Via URL
 
-You can download files directly from URL.
+You can download files directly from the URL.
 
 Example:
 
     https://open-lidar-data.s3.eu-central-1.amazonaws.com/data/BE/EODaS/LiDAR_DHMV_II-2013-2015/copc/LiDAR_DHMV_2_P1_ATL12104_ES_52500_217000.copc.laz
 
-_To find the name of file take a look at main path in __Overview__ and tiling schema, or go to [FlaiHub](hup.flai.ai) __(COMING SOON)___
+_To find the name of the file take a look at the main path in __Overview__ and tiling schema, or go to [FlaiHub](hup.flai.ai) __(COMING SOON)___
 
 ## Tutorials
 
@@ -90,7 +90,7 @@ _To find the name of file take a look at main path in __Overview__ and tiling sc
 ## Contributing
 
 We welcome contributions from the community, whether it's adding new datasets, improving data accessibility, or
-providing feedback on how we can better serve the needs of users. If you have LiDAR data you'd like to contribute or
+providing feedback on how we can better serve users' needs. If you have LiDAR data you'd like to contribute or
 suggestions for our project, please see our contribution guidelines or contact us directly.
 
 ## Change logs
