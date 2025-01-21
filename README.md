@@ -44,7 +44,7 @@ The Open LiDAR Data aims to fill this gap by:
 | United Kingdom DEFRA 2005-2022                 | `/data/DEFRA/LIDAR_*`                                    | [License](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                             | [DEFRA - Data Services Platform](https://environment.data.gov.uk/dataset/094d4ec8-4c21-4aa6-817f-b7e45843c5e0)                                             |
 | Luxembourg le gouvernement luxembourgeois 2019 | `/data/LU/Gouvernement_LUX/Lidar_2019`                   | [License](https://creativecommons.org/publicdomain/zero/1.0/)                                                                     | [The luxembourgish open data platform - data.public.lu](https://data.public.lu/en/datasets/lidar-2019-releve-3d-du-territoire-luxembourgeois/)             
 
-For a more accessible overview, you can explore datasets via [FlaiHub](https://hup.flai.ai) 
+For a more accessible overview, you can explore datasets via [FlaiHub](https://hub.flai.ai) 
 
 In each path, there are the following folders with data:
 
