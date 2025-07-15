@@ -132,12 +132,12 @@ The Open LiDAR Data repository addresses this issue through the following object
 | United Kingdom | 27700 | data/UK/DEFRA/LIDAR\_2007/copc | 2007-01-01 | 2007-12-31 | 1.22 | © Environment Agency \[License\]\(https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\) |
 | United Kingdom | 27700 | data/UK/DEFRA/LIDAR\_2006/copc | 2006-01-01 | 2006-12-31 | 1.35 | © Environment Agency \[License\]\(https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\) |
 | United Kingdom | 27700 | data/UK/DEFRA/LIDAR\_2005/copc | 2005-01-01 | 2005-12-31 | 0.85 | © Environment Agency \[License\]\(https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\) |
-| USA Topobathy | 32617 | data/US/NOAA/NGS\_Topobathy\_Lidar\_2021/copc | 2021-02-24 | 2021-06-01 | 16.9 | NOAA, \[License\]\(https://nauticalcharts.noaa.gov/data/data-licensing.html?utm\_source=chatgpt.com\) |
-| USA Topobathy | 32617 | data/US/NOAA/NGS\_Topobathy\_Lidar\_2021\_South\_Tampa\_Bay/copc | 2021-01-26 | 2021-02-27 | 16.14 | NOAA, \[License\]\(https://nauticalcharts.noaa.gov/data/data-licensing.html?utm\_source=chatgpt.com\) |
-| USA Topobathy | 32618 | data/US/NOAA/NGS\_Topobathy\_Coastal\_VA\_NC\_SC/copc | 2019-01-01 | 2020-12-31 | 42.83 | NOAA, \[License\]\(https://nauticalcharts.noaa.gov/data/data-licensing.html?utm\_source=chatgpt.com\) |
+| USA Topobathy | 32617 | data/US/NOAA/NGS\_Topobathy\_Lidar\_2021/copc | 2021-02-24 | 2021-06-01 | 16.9 | NOAA, \[License\]\(https://nauticalcharts.noaa.gov/data/data-licensing.html) |
+| USA Topobathy | 32617 | data/US/NOAA/NGS\_Topobathy\_Lidar\_2021\_South\_Tampa\_Bay/copc | 2021-01-26 | 2021-02-27 | 16.14 | NOAA, \[License\]\(https://nauticalcharts.noaa.gov/data/data-licensing.html) |
+| USA Topobathy | 32618 | data/US/NOAA/NGS\_Topobathy\_Coastal\_VA\_NC\_SC/copc | 2019-01-01 | 2020-12-31 | 42.83 | NOAA, \[License\]\(https://nauticalcharts.noaa.gov/data/data-licensing.html) |
 
 
-For an easier overview, you can explore datasets via [FlaiHub](https://hup.flai.ai) 
+For an easier overview, you can explore datasets via [FlaiHub](https://hub.flai.ai).
 
 In each path, there are the following folders with data:
 
@@ -164,7 +164,7 @@ Example:
 
     aws s3 cp s3://open-lidar-data/data/BE/EODaS/LiDAR_DHMV_II-2013-2015/copc/LiDAR_DHMV_2_P1_ATL12104_ES_52500_217000.copc.laz
 
-_To find the name of the file take a look at the main path in __Overview__ and tiling schema, or go to [FlaiHub](hup.flai.ai).
+_To find the name of the file take a look at the main path in __Overview__ and tiling schema, or go to [FlaiHub](https://hub.flai.ai)._
 
 #### Download Via URL
 
@@ -174,7 +174,7 @@ Example:
 
     https://open-lidar-data.s3.eu-central-1.amazonaws.com/data/BE/EODaS/LiDAR_DHMV_II-2013-2015/copc/LiDAR_DHMV_2_P1_ATL12104_ES_52500_217000.copc.laz
 
-_To find the name of the file take a look at the main path in __Overview__ and tiling schema, or go to [FlaiHub](hup.flai.ai).
+_To find the name of the file take a look at the main path in __Overview__ and tiling schema, or go to [FlaiHub](https://hub.flai.ai)._
 
 ## Tutorials
 
